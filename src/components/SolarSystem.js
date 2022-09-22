@@ -1,6 +1,5 @@
 import React from 'react';
 import Title from './Title';
-// import PropTypes from 'prop-types';
 
 class SolarSystem extends React.Component {
   render() {
